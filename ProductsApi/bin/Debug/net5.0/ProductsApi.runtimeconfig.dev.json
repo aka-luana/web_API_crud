@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\luana.sales\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\luana.sales\\.nuget\\packages"
+    ]
+  }
+}
